@@ -84,13 +84,3 @@ In this architecture, we have three main layers:
   - **Application Tier**: Auto-scaling based on similar metrics to adjust the number of application server instances.
 
 ---
-
-## Setup Instructions
-
-Follow these steps to deploy the AWS 3-tier application:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-repo/aws-3-tier-app.git
-cd aws-3-tier-app
